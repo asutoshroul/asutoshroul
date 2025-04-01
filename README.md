@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @asutoshroul
 - 👀 I’m interested in learning new skills
 - 🌱 I’m currently learning web hosting
-- 💞️ I’m looking to collaborate
 - 📫 How to reach me take a rope and tie it to fan...lol
 
 <!---
